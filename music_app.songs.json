@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "6560c1b3698d480ed44b5f25"
+  },
+  "Name": "Monster",
+  "Author": "Skillet",
+  "Album": "Awake",
+  "Year": 2009
+},
+{
+  "_id": {
+    "$oid": "6560d2f505b52676b886c1c7"
+  },
+  "Name": "Animal I Have Become",
+  "Author": "Three Days Grace",
+  "Collection": "One-X",
+  "Year": 2006
+}]
